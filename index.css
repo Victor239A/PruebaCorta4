@@ -1,0 +1,86 @@
+body { 
+    width: 100%;
+    max-width: 400px;
+
+}
+
+.header{
+width: 100px;
+height: 60px;
+background-color: rgb(84, 83, 83);
+border: 2px solid black;
+padding: 1px;
+}
+
+.divv {
+display: flex;
+align-items: center;
+justify-content: space-between;
+background-color: gray;
+width: 250px;
+height: 60px;
+}
+
+
+.divv2 {
+    display: flex;
+    align-items: center;
+    border-radius: 50px;
+    background-color: gray;
+    width: 60px;
+    height: 60px;
+}
+
+.divpp {
+align-items: center;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+
+}
+
+
+.cuadradomayor{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 15px;
+    flex-direction: column;
+}
+
+.cuadrado {
+background-color: gray;
+width: 350px;
+height: 275px;
+display: flex;
+align-items: center;
+flex-direction: column;
+padding-top: 2px;
+
+
+}
+.cuadrado2 {
+    align-items: center;
+    display: flex;
+    background-color: pink;
+    width: 320px;
+    height: 150px;
+}
+
+.img {
+    height: 60px;
+    width: 280px;
+}
+
+.img2 {
+    height: 140px;
+    width: 350px;
+}
+
+.A {
+
+    border: 1px solid black;
+    height: 40px;
+    width: 300px;
+    text-align: center;
+}
